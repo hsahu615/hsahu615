@@ -23,7 +23,7 @@
 
 
 <!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-Himanshu Sahu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahu-himanshu/)](https://www.linkedin.com/in/sahu-himanshu/)
+[![Linkedin Badge](https://img.shields.io/badge/-HimanshuSahu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahu-himanshu/)](https://www.linkedin.com/in/sahu-himanshu/)
 
 [![Gmail Badge](https://img.shields.io/badge/-hsahu615@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsahu615@gmail.com)](mailto:hsahu615@gmail.com)
 
