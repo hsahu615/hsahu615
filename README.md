@@ -18,9 +18,6 @@
 <br>
 
 
-<!--NOMINATION FOR STAR GIT LINK CODE-->
-<a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
-
 
 <!-- SOCAIL MEDIA HANDLES -->
 [![Linkedin Badge](https://img.shields.io/badge/-HimanshuSahu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahu-himanshu/)](https://www.linkedin.com/in/sahu-himanshu/)
