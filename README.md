@@ -9,7 +9,7 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Himanshu**, currently I am working at Jalan Technology Consulting as Full Time Software Enginer Intern. <br>
+✔️ I am **Himanshu**,  I have worked at Jalan Technology Consulting as Full Time Software Enginer. <br>
 
 ✔️ I am interested in web development. I also enjoy doing programming questions. <br>
 
