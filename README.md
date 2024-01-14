@@ -1,6 +1,5 @@
 <!-- README FILE CODE -->
-
-
+![Have a look at my portfolio Site](https://hsahu615.github.io/My-Portfolio/)
 
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
 <h2 align=center>👋 Good to have you here!!</h2>
@@ -9,11 +8,11 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Himanshu**,  I have worked at Jalan Technology Consulting as Full Time Software Enginer. <br>
+✔️ I am **Himanshu**,  I am working at Infosys as Full stack developer. <br>
 
-✔️ I am interested in web development. I also enjoy doing programming questions. <br>
+✔️ I have developed UI for couple of projects and integrated various features using Angular and React. <br>
 
-✔️ I have experience in Web Development and have knowledge of ReactJS .<br>
+✔️ From past 2 years I am practicing full stack development in React, Angular and Spring Boot (Java)<br>
 
 <br>
 
