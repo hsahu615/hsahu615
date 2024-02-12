@@ -8,8 +8,6 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Himanshu**,  I am working at Infosys as Full stack developer. <br>
-
 ✔️ I have developed UI for couple of projects and integrated various features using Angular and React. <br>
 
 ✔️ From past 2 years I am practicing full stack development in React, Angular and Spring Boot (Java)<br>
@@ -19,7 +17,6 @@
 
 
 <!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-HimanshuSahu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahu-himanshu/)](https://www.linkedin.com/in/sahu-himanshu/)
 
 [![Gmail Badge](https://img.shields.io/badge/-hsahu615@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsahu615@gmail.com)](mailto:hsahu615@gmail.com)
 
