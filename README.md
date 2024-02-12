@@ -1,5 +1,4 @@
 <!-- README FILE CODE -->
-[Have a look at my portfolio Site](https://hsahu615.github.io/My-Portfolio/)
 
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
 <h2 align=center>👋 Good to have you here!!</h2>
